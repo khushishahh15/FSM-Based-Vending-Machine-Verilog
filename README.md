@@ -1,5 +1,3 @@
-# FSM-Based-Vending-Machine-Verilog
-Designed and implemented an FSM-based vending machine in Verilog HDL using Mealy architecture, supporting ₹5 and ₹10 coin denominations, automatic product dispensing, change return, and functional verification through simulation.
 # FSM-Based Vending Machine using Verilog HDL
 
 A Finite State Machine (FSM) based vending machine implemented in Verilog HDL using the Mealy Machine model. The design accepts ₹5 and ₹10 coins, dispenses a product priced at ₹15, returns change when required, and supports transaction cancellation.
