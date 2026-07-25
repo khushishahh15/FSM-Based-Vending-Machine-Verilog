@@ -71,6 +71,7 @@ A Finite State Machine (FSM) based vending machine implemented in Verilog HDL us
 
 Simulation was performed using Verilog HDL on EDA Playground. Functional verification was carried out through waveform analysis.
 
+![Simulation Waveform](simulation/vending_machine_waveform.png)
 ---
 
 ## Tools Used
